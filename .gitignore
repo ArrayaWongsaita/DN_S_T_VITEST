@@ -1,0 +1,15 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+
+/.agents/
+/.claude/
+/logs/
+/reference/
+/skills-lock.json
+/courses/react-vitest/.scratch/
+/courses/react-vitest/COURSE-OUTLINE.md
+/courses/react-vitest/course-notes.md
+/courses/react-vitest/parts/
+/courses/react-vitest/skill-problems.md
